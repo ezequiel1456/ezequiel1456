@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **i built a half adder with cardboard and paper when i was 13**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
